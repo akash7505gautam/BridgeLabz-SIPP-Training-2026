@@ -1,0 +1,7 @@
+
+----- Report Card -----
+Name: Rahul  Marks: 85
+Name: Amit  Marks: 90
+Name: Priya  Marks: 78
+Average Marks: 84.33333333333333
+-----------------------
